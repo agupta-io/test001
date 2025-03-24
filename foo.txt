@@ -1,0 +1,17 @@
+total 208
+drwxr-xr-x@ 16 agupta  aims    512 Mar 24 10:17 .
+drwxr-xr-x@  3 agupta  aims     96 Mar 24 10:17 ..
+drwxr-xr-x@ 12 agupta  aims    384 Mar 24 10:17 .git
+-rw-r--r--@  1 agupta  aims     14 Mar 24 10:17 CNAME
+-rw-r--r--@  1 agupta  aims     26 Mar 24 10:17 README.md
+drwxr-xr-x@ 12 agupta  aims    384 Mar 24 10:17 _site
+drwxr-xr-x@  5 agupta  aims    160 Mar 24 10:17 assets
+drwxr-xr-x@ 18 agupta  aims    576 Mar 24 10:17 files
+-rw-r--r--@  1 agupta  aims      0 Mar 24 10:17 foo.txt
+-rw-r--r--@  1 agupta  aims     29 Mar 24 10:17 index.html
+-rw-r--r--@  1 agupta  aims   3699 Mar 24 10:17 overview.html
+-rw-r--r--@  1 agupta  aims  27789 Mar 24 10:17 publications.html
+-rw-r--r--@  1 agupta  aims  27581 Mar 24 10:17 publications.html.tg
+-rw-r--r--@  1 agupta  aims   9515 Mar 24 10:17 students.html
+-rwxr-xr-x@  1 agupta  aims     66 Mar 24 10:17 sync_ugupta.com
+-rw-r--r--@  1 agupta  aims  13843 Mar 24 10:17 teaching.html
